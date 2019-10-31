@@ -4,7 +4,7 @@
 ### Quem é esse tal de Cafesão? :question:
 
 Ola, meu nome é Gabriel, apelido **Cafesão**.
-Sou apenas um cara que **ama programar** e gosta de desafios, e desta vez e botando em pratica e documentando em comentários algumas funções interessantes do JS, que simplifica e otimiza muito o trabalho de quem programa.
+Sou apenas um cara que **ama programar** e gosta de desafios, e desta vez é botando em pratica e documentando em forma de comentários, algumas funções interessantes do JS, que simplifica e otimiza muito o trabalho de quem programa.
 >E tem programadores que ainda usam forEach()...
 
 ### E quais as vantagens de usar outras funções em vez do forEach() :question:
