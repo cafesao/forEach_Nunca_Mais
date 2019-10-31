@@ -7,7 +7,7 @@ Ola, meu nome é Gabriel, apelido **Cafesão**.
 Sou apenas um cara que **ama programar** e gosta de desafios, e desta vez e botando em pratica e documentando em comentários algumas funções interessantes do JS, que simplifica e otimiza muito o trabalho de quem programa.
 >E tem programadores que ainda usam forEach()...
 
-### E quais as vantagens de usar outros funções em vez do forEach() :question:
+### E quais as vantagens de usar outras funções em vez do forEach() :question:
 
 Eu te digo meu querido **MUITAS**, fora a praticidade e simplicidade de usar um `map()` ou um `filter()`, você usa as novas funções que foi implementado ECMAScript 5.    
 
