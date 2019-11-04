@@ -1,4 +1,11 @@
-module.exports.filmes = [
+const CaixaFilmes = [
+    {nome: 'Batman', largura: 150, altura: 200},
+    {nome: 'Superman', largura: 250, altura: 300},
+    {nome: 'Homem-Aranha', largura: 100, altura: 125},
+    {nome: 'Mulher-Gato', largura: 125, altura: 175},
+]
+
+const filmes = [
     {
         nome: "Batman",
         videos: [
@@ -40,3 +47,5 @@ module.exports.filmes = [
         ],
     }
 ]
+
+module.exports = { CaixaFilmes, filmes }
